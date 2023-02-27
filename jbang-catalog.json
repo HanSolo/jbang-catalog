@@ -1,0 +1,34 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "jarkanoid": {
+      "script-ref": "https://github.com/HanSolo/jarkanoid/releases/download/17.0.7/jarkanoid-mac-x64-17.0.7.jar",
+      "dependencies": [
+        "org.openjfx:javafx-controls:18.0.2:${os.detected.jfxname}",
+        "org.openjfx:javafx-media:18.0.2:${os.detected.jfxname}"
+      ],
+      "java": "17+"
+    },
+    "jdkmon": {
+      "script-ref": "https://github.com/HanSolo/JDKMon/releases/download/17.0.45/JDKMon-17.0.45-linux-x64.jar",
+      "dependencies": [
+        "org.openjfx:javafx-controls:18.0.2:${os.detected.jfxname}",
+        "org.openjfx:javafx-media:18.0.2:${os.detected.jfxname}"
+      ],
+      "java": "17+"
+    },
+    "jcpu": {
+      "script-ref": "https://github.com/HanSolo/jcpu/releases/download/17.0.0/jcpu-macos-x64-17.0.0.jar",
+      "dependencies": [
+        "org.openjfx:javafx-controls:18.0.2:${os.detected.jfxname}",
+        "org.openjfx:javafx-media:18.0.2:${os.detected.jfxname}"
+      ],
+      "java": "17+"
+    },
+    "discocli": {
+      "script-ref": "https://github.com/HanSolo/discocli/releases/download/17.0.15/discocli-17.0.15-fat.jar",
+      "java": "17+"
+    }
+  },
+  "templates": {}
+}
