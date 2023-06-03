@@ -12,8 +12,12 @@ $ jbang alias list hansolo
 ## run jarkanoid
 $ jbang jarkanoid@hansolo
 
-## install and discocli as an app
+## install discocli as an app
 $ jbang app install discocli@hansolo
 $ discocli
+
+## install javafinder as an app
+$ jbang app install javafinder@hansolo
+$ javafinder
 ```
 
