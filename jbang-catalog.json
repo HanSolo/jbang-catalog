@@ -10,7 +10,7 @@
       "java": "17+"
     },
     "jdkmon": {
-      "script-ref": "https://github.com/HanSolo/JDKMon/releases/download/17.0.45/JDKMon-17.0.45-linux-x64.jar",
+      "script-ref": "https://github.com/HanSolo/JDKMon/releases/download/17.0.63/JDKMon-17.0.63-linux-x64.jar",
       "dependencies": [
         "org.openjfx:javafx-controls:18.0.2:${os.detected.jfxname}",
         "org.openjfx:javafx-media:18.0.2:${os.detected.jfxname}"
@@ -27,6 +27,10 @@
     },
     "discocli": {
       "script-ref": "https://github.com/HanSolo/discocli/releases/download/17.0.15/discocli-17.0.15-fat.jar",
+      "java": "17+"
+    },
+    "javafinder": {
+      "script-ref": "https://github.com/HanSolo/javafinder/releases/download/17.0.19/javafinder-17.0.19.jar",
       "java": "17+"
     }
   },
