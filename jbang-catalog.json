@@ -34,7 +34,7 @@
       "java": "17+"
     },
     "glucostatusfx": {
-      "script-ref": "https://github.com/HanSolo/glucostatusfx/releases/download/17.0.55/GlucoStatusFX-17.0.55-linux-x64.jar",
+      "script-ref": "https://github.com/HanSolo/glucostatusfx/releases/download/17.0.57/GlucoStatusFX-17.0.57-linux-x64.jar",
       "dependencies": [
         "org.openjfx:javafx-controls:20.0.2:${os.detected.jfxname}",
         "org.openjfx:javafx-media:20.0.2:${os.detected.jfxname}",
