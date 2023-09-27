@@ -10,10 +10,10 @@
       "java": "17+"
     },
     "jdkmon": {
-      "script-ref": "https://github.com/HanSolo/JDKMon/releases/download/17.0.71/JDKMon-17.0.71-linux-x64.jar",
+      "script-ref": "https://github.com/HanSolo/JDKMon/releases/download/17.0.77/JDKMon-17.0.77-linux-x64.jar",
       "dependencies": [
-        "org.openjfx:javafx-controls:20.0.2:${os.detected.jfxname}",
-        "org.openjfx:javafx-media:20.0.2:${os.detected.jfxname}"
+        "org.openjfx:javafx-controls:21:${os.detected.jfxname}",
+        "org.openjfx:javafx-media:21:${os.detected.jfxname}"
       ],
       "java": "17+"
     },
@@ -30,11 +30,11 @@
       "java": "17+"
     },
     "javafinder": {
-      "script-ref": "https://github.com/HanSolo/javafinder/releases/download/17.0.27/javafinder-17.0.27.jar",
+      "script-ref": "https://github.com/HanSolo/javafinder/releases/download/17.0.33/javafinder-17.0.33.jar",
       "java": "17+"
     },
     "glucostatusfx": {
-      "script-ref": "https://github.com/HanSolo/glucostatusfx/releases/download/17.0.57/GlucoStatusFX-17.0.57-linux-x64.jar",
+      "script-ref": "https://github.com/HanSolo/glucostatusfx/releases/download/17.0.57/GlucoStatusFX-17.0.61-linux-x64.jar",
       "dependencies": [
         "org.openjfx:javafx-controls:20.0.2:${os.detected.jfxname}",
         "org.openjfx:javafx-media:20.0.2:${os.detected.jfxname}",
